@@ -1,0 +1,7 @@
+@media(min-width: 780px){
+    .advice{
+        padding-inline: 50px;
+        width: 386px;
+        align-items: center;
+    }
+}
